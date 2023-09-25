@@ -41,7 +41,7 @@ The autonomous car in this simulation utilizes a sensor-based approach for navig
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone <repository_url>
+   git clone https://github.com/showmen78/autonomous-car-using-vector.git
    ```
 
 2. Open the `index.html` file in a web browser to run the simulation.
